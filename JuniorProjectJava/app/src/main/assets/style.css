@@ -1,0 +1,11 @@
+html, body{
+    padding: 0;
+    margin: 0;
+}
+
+.video{
+    position: absolute;
+    width: 100%;
+    height: 90%;
+    object-fit: cover;
+}

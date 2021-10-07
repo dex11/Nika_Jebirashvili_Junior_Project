@@ -1,0 +1,7 @@
+ To set up media stream server, you have to download peer package for your OS.
+ You can see guide here https://peerjs.com/ 
+
+ Than u have to input your servers IP address and Port in call.js files 
+ in ControllerStream and JuniorProjectJava Folders.
+
+ Now u've got the stream running. have fun!

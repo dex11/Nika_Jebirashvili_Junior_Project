@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "737917415290",
+    "firebase_url": "https://juniorproject-87d55-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "juniorproject-87d55",
+    "storage_bucket": "juniorproject-87d55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737917415290:android:a808d8944d39b478b2f0c3",
+        "android_client_info": {
+          "package_name": "ge.njebirashvili.juniorproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737917415290-vgi0bsphjd7bs0esvmkb189psee6gmmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOBzzEIgYYegb71kihsZ9b30NONe9wUpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737917415290-vgi0bsphjd7bs0esvmkb189psee6gmmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737917415290:android:5f9fee999783bfa4b2f0c3",
+        "android_client_info": {
+          "package_name": "ge.njebirashvili.juniorprojectjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737917415290-vgi0bsphjd7bs0esvmkb189psee6gmmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOBzzEIgYYegb71kihsZ9b30NONe9wUpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737917415290-vgi0bsphjd7bs0esvmkb189psee6gmmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
